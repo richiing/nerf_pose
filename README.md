@@ -1,6 +1,6 @@
 # Follow VoxelPose to set it.
 
-# the coding for pretaining is at [pretrained model](https://github.com/richiing/pretrain-nerf-pose) or the model in this coding.
+# the coding for pretraining is at [pretrained model](https://github.com/richiing/pretrain-nerf-pose) or the model in this coding.
 
 
 
